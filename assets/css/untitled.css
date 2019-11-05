@@ -1,0 +1,99 @@
+.row {
+  margin-top: -100px;
+}
+
+.jumbotron {
+  margin-top: -50px;
+  background-color: rgb(242,243,245);
+}
+
+@media (min-width: 300px) {
+  section.features .section-heading p {
+    font-size: 20px;
+  }
+}
+
+.section-heading-upper {
+  display: block;
+  font-size: 3.8rem;
+  font-weight: 800;
+}
+
+@media (min-width: 576px) {
+  .text-center.section-heading-lower {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 992px) {
+  .text-center.section-heading-bottom {
+    display: block;
+    font-size: 1.7rem;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 300px) {
+  .top-head {
+    font-size: 40px;
+    display: block;
+    font-weight: inherit;
+  }
+}
+
+#logo {
+  max-height: 200px;
+  text-align: center;
+  display: inline-block;
+}
+
+@media (min-width: 992px) {
+  section.features .section-heading p {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 640px) {
+  .section-heading-upper {
+    display: block;
+    font-size: 1.9rem;
+    font-weight: 800;
+  }
+}
+
+@media (min-width: 300px) {
+  .text-center.section-heading-lower {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 360px) {
+  .text-center.section-heading-bottom {
+    display: block;
+    font-size: .952rem;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 992px) {
+  #top {
+    font-size: 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .btn.btn-primary.d-inline-block.mx-auto.btn-xl {
+    font-size: xx-large;
+  }
+}
+
+@media (max-width: 300px) {
+  .btn.btn-primary.d-inline-block.mx-auto.btn-xl {
+    font-size: smaller;
+  }
+}
+
